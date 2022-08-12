@@ -1,2 +1,3 @@
-# Principi-programskih-jezikov
-Principi programskih jezikov - OCaml, Prolog (2. letnik FRI UNI)
+## Principi programskih jezikov
+
+2. letnik FRI UNI
